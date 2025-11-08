@@ -148,7 +148,6 @@ Simplify the function: `F(A,B,C,D) = ∑m(0, 1, 2, 8, 9, 10) + Σd(3, 7, 15)`
 
 Grab lunch, then come back for this.
 
-```markdown
 # STUDY BLOCK 2: 2's Complement & Flip-Flop Conversion
 
 ---
